@@ -43,18 +43,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.de/citations?user=eNdHJmQAAAAJ&hl=de
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4558-5885
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Akpona_Okujeni
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +76,6 @@ email: ""
 highlight_name: false
 ---
 
-My scientific research focuses on bridging environmental applications and remote sensing techniques to better understand land systems under global change. To do so, I utilize high-spectral and dense-temporal satellite imagery, machine learning algorithms, and sophisticated model training strategies. My studies extend across a wide range of terrestrial ecosystems (e.g., urban areas, grasslands, shrublands, and forests) and aim at the quantification of land cover and vegetation properties (e.g., broad- to fine-scale fractional composition, phenology, and biomass) and environmental change processes (e.g., urban expansion, vegetation encroachment, and ecosystem disturbances).
+My scientific research focuses on bridging environmental applications and remote sensing techniques to better understand land systems under global change. To do so, I utilize high-spectral and dense-temporal satellite imagery, machine learning algorithms, and sophisticated model training strategies. My studies extend across a wide range of terrestrial ecosystems (e.g., urban areas, grasslands, shrublands, and forests) and aim at the quantification of land cover and vegetation properties (e.g., broad- to fine-scale fractional composition, phenology, and biomass) and environmental change processes (e.g., urban expansion, vegetation encroachment and ecosystem disturbances).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
