@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 50
 
-title: Projects
+title: Data
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: data
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -24,13 +24,7 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Ongoing
-    tag: Ongoing
-  - name: Completed 
-    tag: Completed 
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -42,6 +36,7 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 3
+
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

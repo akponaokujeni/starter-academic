@@ -19,18 +19,18 @@
   weight = 30
 
 [[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 40
+
+[[main]]
   name = "Data"
   url = "#data"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Software"
   url = "#software"
-  weight = 50
-
-[[main]]
-  name = "Teaching"
-  url = "teaching"
   weight = 60
 
 [[main]]

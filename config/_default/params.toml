@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "akpona.okujeni@geo.hu-berlin.de"
+email = "akpona.okujeni(at)geo.hu-berlin.de"
 phone = "+49 (0)30 2093-6894"
 
 # Address
@@ -100,7 +100,7 @@ address = {street = "Postal address: Humboldt-Universität zu Berlin, Geography 
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office address: Rudower Chaussee 16, 12489 Berlin, Germany"
+directions = "Office address: Humboldt-Universität zu Berlin, Geography Department, Rudower Chaussee 16, 12489 Berlin, Germany"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
