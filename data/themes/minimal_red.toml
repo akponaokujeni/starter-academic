@@ -5,12 +5,12 @@ name = "Red Minimal"
 light = true
 
 # Primary
-primary = "#BE0000"
+primary = "#58b54e"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#BE0000"
+menu_text_active = "#58b54e"
 menu_title = "#2b2b2b"
 
 # Home sections

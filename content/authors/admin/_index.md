@@ -14,13 +14,13 @@ organizations:
   url: https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/akpona_okujeni
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My scientific research focuses on bridging environmental applications and remote sensing techniques to better understand land systems under global change.
 
 # Interests to show in About widget
 interests:
 - Imaging spectroscopy & multispectral time-series
-- Quantitative machine learning workflows 
-- Land systems under global change
+- Image processing with machine learning
+- Mapping & monitoring land surfaces
 
 # Education to show in About widget
 education:
@@ -74,6 +74,9 @@ email: ""
 highlight_name: false
 ---
 
-My scientific research focuses on bridging environmental applications and remote sensing techniques to better understand land systems under global change. To do so, I utilize high-spectral and dense-temporal satellite imagery, machine learning algorithms, and sophisticated model training strategies. My studies extend across a wide range of terrestrial ecosystems (e.g., urban areas, grasslands, shrublands, and forests) and aim at the quantification of land cover and vegetation properties (e.g., broad- to fine-scale fractional composition, phenology, and biomass) and environmental change processes (e.g., urban expansion, vegetation encroachment and ecosystem disturbances).
+My scientific research focuses on bridging environmental applications and remote sensing techniques to map and monitor terrestrial land surfaces under global change. I utilize imaging spectroscopy data and dense-temporal satellite imagery, machine learning algorithms, and sophisticated model training strategies. My studies extend across a wide range of terrestrial ecosystems and aim at the quantification of land cover and vegetation properties as well as land surface change processes.
+
+A specific focus of my research is on regression-based unmixing through combining machine learning with synthetic training data generation. The approach has become a core method in several research projects and publications and has been brought forward as a user-friendly software implementation for image processing and online learning and teaching.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

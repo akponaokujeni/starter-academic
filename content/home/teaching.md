@@ -28,17 +28,15 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-I have several years of experience in teaching remote sensing and geoinformation science at the university and workshops. Courses include:
+I have several years of experience in teaching remote sensing and geoinformation science at the university and at workshops. My courses include:
 - Introduction into Remote Sensing
 - Laboratory and field spectrometry
 - Introduction into working with the EnMAP-Box
 - Spectral unmixing and urban remote sensing
 - Introduction to Geographic Information Systems
-- Introduction into Statistics, Cartography and Geographic Information Systems
-- Modeling climate and hydrological data
-- Quantitative Methods in Geography
+- Geostatistical modeling of climate and hydrological data
 
 
-In addition, I am involved in developing educational tutorials for online learning and teaching. These developments are part of the [HYPERedu online learning platform](https://eo-college.org/now-online-hyperedu-educational-resources-on-imaging-spectroscopy/), an education initiative within the EnMAP mission.
+I am further involved in developing educational tutorials for online learning and teaching. These developments are part of the [HYPERedu online learning platform](https://eo-college.org/now-online-hyperedu-educational-resources-on-imaging-spectroscopy/), an education initiative within the EnMAP mission.
 - Regression-based unmixing of urban land cover ([Tutorial](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/urban_unmixing/tutorial.html))
 - Regression-based mapping of forest aboveground biomass ([Tutorial](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/biomass_regression/tutorial.html))
