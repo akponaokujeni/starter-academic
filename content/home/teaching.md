@@ -37,6 +37,6 @@ I have several years of experience in teaching remote sensing and geoinformation
 - Geostatistical modeling of climate and hydrological data
 
 
-I am further involved in developing educational tutorials for online learning and teaching. These developments are part of the [HYPERedu online learning platform](https://eo-college.org/now-online-hyperedu-educational-resources-on-imaging-spectroscopy/), an education initiative within the EnMAP mission.
-- Regression-based unmixing of urban land cover ([Tutorial](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/urban_unmixing/tutorial.html))
-- Regression-based mapping of forest aboveground biomass ([Tutorial](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/biomass_regression/tutorial.html))
+I am further involved in developing educational tutorials for online learning and teaching. These developments are part of the [HYPERedu](https://eo-college.org/now-online-hyperedu-educational-resources-on-imaging-spectroscopy/) online learning platform, an education initiative within the EnMAP mission. My tutorials include:
+- [Regression-based unmixing of urban land cover](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/urban_unmixing/tutorial.html)
+- [Regression-based mapping of forest aboveground biomass](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/biomass_regression/tutorial.html)

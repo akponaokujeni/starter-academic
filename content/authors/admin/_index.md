@@ -76,7 +76,7 @@ highlight_name: false
 
 My scientific research focuses on bridging environmental applications and remote sensing techniques to map and monitor terrestrial land surfaces under global change. I utilize imaging spectroscopy data and dense-temporal satellite imagery, machine learning algorithms, and sophisticated model training strategies. My studies extend across a wide range of terrestrial ecosystems and aim at the quantification of land cover and vegetation properties as well as land surface change processes.
 
-A specific focus of my research is on regression-based unmixing through combining machine learning with synthetic training data generation. The approach has become a core method in several research projects and publications, and has been brought forward as a user-friendly software implementation for image processing and online learning and teaching.
+A specific focus of my research is on regression-based unmixing through combining machine learning with synthetic training data generation. The approach has become a core method in several research projects and publications, and has been brought forward as a user-friendly software implementation for image processing as well as for online learning and teaching.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
