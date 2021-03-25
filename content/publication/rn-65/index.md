@@ -5,16 +5,16 @@ title: A Comparison of Advanced Regression Algorithms for Quantifying Urban Land
 subtitle: ''
 summary: ''
 authors:
-- Akpona Okujeni
-- Sebastian van der Linden
-- Benjamin Jakimow
-- Andreas Rabe
-- Jochem Verrelst
-- Patrick Hostert
+- A. Okujeni
+- S. van der Linden
+- B Jakimow
+- A Rabe
+- J. Verrelst
+- P. Hostert
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2021-02-22T15:26:02+01:00
+lastmod: 2021-03-25T16:39:21+01:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:59.889537Z'
+publishDate: '2021-03-25T15:39:20.478052Z'
 publication_types:
 - '2'
 abstract: ''

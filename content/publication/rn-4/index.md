@@ -6,15 +6,15 @@ title: Combining simulated hyperspectral EnMAP and Landsat time series for fores
 subtitle: ''
 summary: ''
 authors:
-- Sam Cooper
-- Akpona Okujeni
-- Dirk Pflugmacher
-- Sebastian van der Linden
-- Patrick Hostert
+- S. Cooper
+- A. Okujeni
+- D. Pflugmacher
+- S. van der Linden
+- P. Hostert
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-02-22T15:25:35+01:00
+lastmod: 2021-03-25T16:39:10+01:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:33.723195Z'
+publishDate: '2021-03-25T15:39:09.254160Z'
 publication_types:
 - '2'
 abstract: ''

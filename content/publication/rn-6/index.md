@@ -7,15 +7,15 @@ title: Mapping urban-rural gradients of settlements and vegetation at national s
 subtitle: ''
 summary: ''
 authors:
-- Franz Schug
-- David Frantz
-- Akpona Okujeni
-- Sebastian van der Linden
-- Patrick Hostert
+- F. Schug
+- D. Frantz
+- A. Okujeni
+- S. van der Linden
+- P. Hostert
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-02-22T15:26:17+01:00
+lastmod: 2021-03-25T16:39:33+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:26:16.359671Z'
+publishDate: '2021-03-25T15:39:31.747721Z'
 publication_types:
 - '2'
 abstract: ''

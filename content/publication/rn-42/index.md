@@ -6,16 +6,16 @@ title: A Novel Spectral Library Pruning Technique for Spectral Unmixing of Urban
 subtitle: ''
 summary: ''
 authors:
-- Jeroen Degerickx
-- Akpona Okujeni
-- Marian-Daniel Iordache
-- Martin Hermy
-- Sebastian van der Linden
-- Ben Somers
+- J. Degerickx
+- A. Okujeni
+- M.-D. Iordache
+- M. Hermy
+- S. van der Linden
+- B. Somers
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-02-22T15:25:40+01:00
+lastmod: 2021-03-25T16:39:11+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:36.838460Z'
+publishDate: '2021-03-25T15:39:10.856827Z'
 publication_types:
 - '2'
 abstract: ''

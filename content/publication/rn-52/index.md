@@ -6,19 +6,19 @@ title: The EnMAP-Box—A Toolbox and Application Programming Interface for EnMAP
 subtitle: ''
 summary: ''
 authors:
-- Sebastian van der Linden
-- Andreas Rabe
-- Matthias Held
-- Benjamin Jakimow
-- Pedro Leitão
-- Akpona Okujeni
-- Marcel Schwieder
-- Stefan Suess
-- Patrick Hostert
+- S. van der Linden
+- A. Rabe
+- M. Held
+- B. Jakimow
+- P. Leitão
+- A. Okujeni
+- M. Schwieder
+- S. Suess
+- P. Hostert
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-02-22T15:26:31+01:00
+lastmod: 2021-03-25T16:39:45+01:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:26:30.654534Z'
+publishDate: '2021-03-25T15:39:44.651039Z'
 publication_types:
 - '2'
 abstract: ''

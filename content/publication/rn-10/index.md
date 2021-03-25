@@ -6,16 +6,16 @@ title: 'Disentangling fractional vegetation cover: Regression-based unmixing of 
 subtitle: ''
 summary: ''
 authors:
-- Sam Cooper
-- Akpona Okujeni
-- Clemens Jänicke
-- Matthew Clark
-- Sebastian van der Linden
-- Patrick Hostert
+- S. Cooper
+- A. Okujeni
+- C. Jänicke
+- M. Clark
+- S. van der Linden
+- P. Hostert
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-02-22T15:25:33+01:00
+lastmod: 2021-03-25T16:39:08+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:30.658416Z'
+publishDate: '2021-03-25T15:39:06.345566Z'
 publication_types:
 - '2'
 abstract: ''

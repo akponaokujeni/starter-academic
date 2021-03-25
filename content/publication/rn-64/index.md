@@ -5,16 +5,16 @@ title: Import Vector Machines for Quantitative Analysis of Hyperspectral Data
 subtitle: ''
 summary: ''
 authors:
-- S. Suess
-- S. van der Linden
+- S Suess
+- S van der Linden
 - P. J. Leitão
-- A. Okujeni
+- A Okujeni
 - B. Waske
-- P. Hostert
+- P Hostert
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2021-02-22T15:26:24+01:00
+lastmod: 2021-03-25T16:39:39+01:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:26:23.480380Z'
+publishDate: '2021-03-25T15:39:38.283486Z'
 publication_types:
 - '2'
 abstract: ''

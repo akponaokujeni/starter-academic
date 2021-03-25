@@ -6,13 +6,13 @@ title: Extending the vegetation–impervious–soil model using simulated EnMAP 
 subtitle: ''
 summary: ''
 authors:
-- Akpona Okujeni
-- Sebastian van der Linden
-- Patrick Hostert
+- A. Okujeni
+- S. van der Linden
+- P. Hostert
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-02-22T15:25:58+01:00
+lastmod: 2021-03-25T16:39:20+01:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:56.776255Z'
+publishDate: '2021-03-25T15:39:19.083118Z'
 publication_types:
 - '2'
 abstract: ''

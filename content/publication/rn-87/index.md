@@ -6,14 +6,14 @@ title: Comparing map-based and library-based training approaches for urban land-
 subtitle: ''
 summary: ''
 authors:
-- Frederik Priem
-- Akpona Okujeni
-- Sebastian van der Linden
-- Frank Canters
+- F. Priem
+- A. Okujeni
+- S. van der Linden
+- F. Canters
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-02-22T15:26:09+01:00
+lastmod: 2021-03-25T16:39:26+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:26:07.795441Z'
+publishDate: '2021-03-25T15:39:25.403120Z'
 publication_types:
 - '2'
 abstract: ''

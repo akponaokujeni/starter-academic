@@ -6,7 +6,7 @@ tags:
 date: "2020-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://eo.belspo.be/en/stereo-in-action/projects/urban-ecosystem-analysis-supported-remote-sensing"
+external_link: "https://doi.pangaea.de/10.1594/PANGAEA.923037"
 
 image:
   caption: Photo by rawpixel on Unsplash

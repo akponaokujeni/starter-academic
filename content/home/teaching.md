@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-I have several years of experience in teaching remote sensing and geoinformation science at the university and at workshops. My courses include:
+I have several years of experience in teaching remote sensing and geoinformation science at the university and at workshops. My teaching portfolio includes:
 - Introduction into Remote Sensing
 - Laboratory and field spectrometry
 - Introduction into working with the EnMAP-Box

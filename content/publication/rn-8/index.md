@@ -6,16 +6,16 @@ title: Brightness gradient-corrected hyperspectral image mosaics for fractional 
 subtitle: ''
 summary: ''
 authors:
-- Clemens Jänicke
-- Akpona Okujeni
-- Sam Cooper
-- Matthew Clark
-- Patrick Hostert
-- Sebastian van der Linden
+- C. Jänicke
+- A. Okujeni
+- S. Cooper
+- M. Clark
+- P. Hostert
+- S. van der Linden
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-02-22T15:25:48+01:00
+lastmod: 2021-03-25T16:39:15+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:45.133346Z'
+publishDate: '2021-03-25T15:39:14.031062Z'
 publication_types:
 - '2'
 abstract: ''

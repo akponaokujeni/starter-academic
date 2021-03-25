@@ -93,14 +93,14 @@ phone = "+49 (0)30 2093-6894"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Postal address: Humboldt-Universität zu Berlin, Geography Department, Unter den Linden 6, D-10099 Berlin, Germany"}
+address = {street = "Postal address: Humboldt-Universität zu Berlin, Geography Department, Unter den Linden 6, 10099 Berlin, Germany"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office address: Humboldt-Universität zu Berlin, Geography Department, Rudower Chaussee 16, 12489 Berlin, Germany"
+directions = "Office location: Humboldt-Universität zu Berlin, Geography Department, Rudower Chaussee 16, 12489 Berlin, Germany"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

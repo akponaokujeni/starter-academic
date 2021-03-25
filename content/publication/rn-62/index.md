@@ -5,17 +5,17 @@ title: 'Monitoring Natural Ecosystem and Ecological Gradients: Perspectives with
 subtitle: ''
 summary: ''
 authors:
-- Pedro Leitão
-- Marcel Schwieder
-- Stefan Suess
-- Akpona Okujeni
-- Lênio Galvão
-- Sebastian van der Linden
-- Patrick Hostert
+- P. J. Leitão
+- M. Schwieder
+- S. Suess
+- A. Okujeni
+- . Galvão
+- S. van der Linden
+- P. Hostert
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-02-22T15:25:52+01:00
+lastmod: 2021-03-25T16:39:16+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:48.847989Z'
+publishDate: '2021-03-25T15:39:15.666958Z'
 publication_types:
 - '2'
 abstract: ''

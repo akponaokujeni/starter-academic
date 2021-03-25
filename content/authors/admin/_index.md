@@ -18,9 +18,10 @@ bio: My scientific research focuses on bridging environmental applications and r
 
 # Interests to show in About widget
 interests:
-- Imaging spectroscopy & multispectral time-series
+- Mapping & monitoring vegetation patterns
+- Remote sensing of the urbanized world
+- Hyperspectral data & multispectral time-series
 - Image processing with machine learning
-- Mapping & monitoring land surfaces
 
 # Education to show in About widget
 education:
@@ -74,9 +75,9 @@ email: ""
 highlight_name: false
 ---
 
-My scientific research focuses on bridging environmental applications and remote sensing techniques to map and monitor terrestrial land surfaces under global change. I utilize imaging spectroscopy data and dense-temporal satellite imagery, machine learning algorithms, and sophisticated model training strategies. My studies extend across a wide range of terrestrial ecosystems and aim at the quantification of land cover and vegetation properties as well as land surface change processes.
+I am a geographer by education with more than 10 years of expertise in remote sensing. My research is motivated by the variety of exciting possibilities Earth observation offers to map and monitor our planet's land surface. I am utilizing hyperspectral imagery, multispectral time-series and machine learning to quantify land cover and vegetation patterns as well as land surface change processes. My studies extend across a wide range of terrestrial ecosystems and focus on innovative methodological developments and environmental research questions related to global change.
 
-A specific focus of my research is on regression-based unmixing through combining machine learning with synthetic training data generation. The approach has become a core method in several research projects and publications, and has been brought forward as a user-friendly software implementation for image processing as well as for online learning and teaching.
+A specific focus of my research is on spectral unmixing through combining machine learning regression with synthetic training data generation. The approach has become a core method in several research projects and publications, and has been brought forward as a user-friendly software implementation for image processing as well as for online learning and teaching.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my full {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}} for further information.

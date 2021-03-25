@@ -6,15 +6,15 @@ title: A generalized regression-based unmixing model for mapping forest cover fr
 subtitle: ''
 summary: ''
 authors:
-- Cornelius Senf
-- Josef Laštovička
-- Akpona Okujeni
-- Marco Heurich
-- Sebastian van der Linden
+- C. Senf
+- J. Laštovička
+- A. Okujeni
+- M. Heurich
+- S. van der Linden
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-02-22T15:26:21+01:00
+lastmod: 2021-03-25T16:39:36+01:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:26:19.931015Z'
+publishDate: '2021-03-25T15:39:35.284654Z'
 publication_types:
 - '2'
 abstract: ''

@@ -6,20 +6,20 @@ title: Generalizing machine learning regression models using multi-site spectral
 subtitle: ''
 summary: ''
 authors:
-- Akpona Okujeni
-- Frank Canters
-- Sam D. Cooper
-- Jeroen Degerickx
-- Uta Heiden
-- Patrick Hostert
-- Frederik Priem
-- Dar A. Roberts
-- Ben Somers
-- Sebastian van der Linden
+- A. Okujeni
+- F. Canters
+- S. D. Cooper
+- J. Degerickx
+- U. Heiden
+- P. Hostert
+- F. Priem
+- D. A. Roberts
+- B. Somers
+- S. van der Linden
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-02-22T15:25:56+01:00
+lastmod: 2021-03-25T16:39:18+01:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:25:52.889791Z'
+publishDate: '2021-03-25T15:39:17.413196Z'
 publication_types:
 - '2'
 abstract: ''

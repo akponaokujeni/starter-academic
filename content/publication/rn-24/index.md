@@ -6,17 +6,17 @@ title: Characterizing 32 years of shrub cover dynamics in southern Portugal us
 subtitle: ''
 summary: ''
 authors:
-- Stefan Suess
-- Sebastian van der Linden
-- Akpona Okujeni
-- Patrick Griffiths
-- Pedro J. Leitão
-- Marcel Schwieder
-- Patrick Hostert
+- S. Suess
+- S. van der Linden
+- A. Okujeni
+- P. Griffiths
+- P. J. Leitão
+- M. Schwieder
+- P. Hostert
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-02-22T15:26:26+01:00
+lastmod: 2021-03-25T16:39:40+01:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-22T14:26:25.246571Z'
+publishDate: '2021-03-25T15:39:39.826330Z'
 publication_types:
 - '2'
 abstract: ''
