@@ -20,7 +20,7 @@ bio:
 interests:
 - Mapping & monitoring vegetation patterns
 - Remote sensing of the urbanized world
-- Hyperspectral data & multispectral time-series
+- Imaging spectroscopy & multispectral time-series
 - Image processing with machine learning
 
 # Education to show in About widget
