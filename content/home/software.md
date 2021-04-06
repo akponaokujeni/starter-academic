@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-I am contributing to the conzeptualization and implementation of user-friendly applications in the EnMAP-Box, a free and open source plug-in for QGIS to visualize and process remote sensing data. 
+I am contributing to the conzeptualization and implementation of applications in the EnMAP-Box, a free and open source plug-in for QGIS to visualize and process remote sensing data. 
 - [EnMAP-Box Documentation](https://enmap-box.readthedocs.io/en/latest/)
 - [EnMAP-Box Source Code Repository](https://bitbucket.org/hu-geomatics/enmap-box/src/develop/)
 

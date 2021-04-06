@@ -14,7 +14,7 @@ organizations:
   url: https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/akpona_okujeni
 
 # Short bio (displayed in user profile at end of posts)
-bio: My scientific research focuses on bridging environmental applications and remote sensing techniques to better understand land systems under global change.
+bio:
 
 # Interests to show in About widget
 interests:
@@ -75,9 +75,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a geographer by education with more than 10 years of expertise in remote sensing. My research is motivated by the variety of exciting possibilities Earth observation offers to map and monitor our planet's land surface. I am utilizing hyperspectral imagery, multispectral time-series and machine learning to quantify land cover and vegetation patterns as well as land surface change processes. My studies extend across a wide range of terrestrial ecosystems and focus on innovative methodological developments and environmental research questions related to global change.
+I am a geographer by education with more than 10 years of expertise in remote sensing. My research is motivated by the variety of exciting possibilities Earth observation offers to map and monitor our planet's land surface. I am utilizing imaging spectroscopy (hyperspectral) data, multispectral time-series and machine learning to quantify land cover and vegetation patterns as well as land surface change processes. My studies extend across a wide range of terrestrial ecosystems and focus on innovative methodological developments and environmental research questions related ecosystem structure, ecosystem function and global change.
 
 A specific focus of my research is on spectral unmixing through combining machine learning regression with synthetic training data generation. The approach has become a core method in several research projects and publications, and has been brought forward as a user-friendly software implementation for image processing as well as for online learning and teaching.
 
-
-{{< icon name="download" pack="fas" >}} See my full {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}} for further information.
+{{< icon name="download" pack="fas" >}} See my full [CV](https://www.dropbox.com/s/uwpgofy0hvrrd09/okujeni_cv_20210318_public.pdf?dl=0) for further information.
