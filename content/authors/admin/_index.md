@@ -79,4 +79,4 @@ I am a geographer by education with more than 10 years of expertise in remote se
 
 A specific focus of my research is on spectral unmixing through combining machine learning regression with synthetic training data generation. The approach has become a core method in several research projects and publications, and has been brought forward as a user-friendly software implementation for image processing as well as for online learning and teaching.
 
-{{< icon name="download" pack="fas" >}} See my full [CV](https://www.dropbox.com/s/uwpgofy0hvrrd09/okujeni_cv_20210318_public.pdf?dl=0) for further information.
+{{< icon name="download" pack="fas" >}} See my full [CV](https://www.dropbox.com/s/5fkqp0w98lca1v1/okujeni_cv_20210423_public_website.pdf?dl=0) for further information.
