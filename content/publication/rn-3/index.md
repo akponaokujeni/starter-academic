@@ -1,22 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: National-scale mapping of building height using Sentinel-1 and Sentinel-2 time
-  series
+title: Combining simulated hyperspectral EnMAP and Landsat time series for forest
+  aboveground biomass mapping
 subtitle: ''
 summary: ''
 authors:
-- D. Frantz
-- F. Schug
+- S. Cooper
 - A. Okujeni
-- C. Navacchi
-- W. Wagner
+- D. Pflugmacher
 - S. van der Linden
 - P. Hostert
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-25T16:39:13+01:00
+lastmod: 2021-07-15T16:39:48+02:00
 featured: false
 draft: false
 
@@ -34,10 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-25T15:39:12.382073Z'
+publishDate: '2021-07-15T14:39:46.654929Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Remote Sensing of Environment*'
-doi: 10.1016/j.rse.2020.112128
+publication: '*International Journal of Applied Earth Observation and Geoinformation*'
+doi: 10.1016/j.jag.2021.102307
 ---

@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Publications
 subtitle: ''
@@ -29,6 +29,8 @@ content:
     author: ''
     exclude_featured: true
 design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact

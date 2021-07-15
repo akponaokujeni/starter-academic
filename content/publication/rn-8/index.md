@@ -1,21 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Brightness gradient-corrected hyperspectral image mosaics for fractional vegetation
-  cover mapping in northern California
+title: Comparing map-based and library-based training approaches for urban land-cover
+  fraction mapping from Sentinel-2 imagery
 subtitle: ''
 summary: ''
 authors:
-- C. Jänicke
+- F. Priem
 - A. Okujeni
-- S. Cooper
-- M. Clark
-- P. Hostert
 - S. van der Linden
+- F. Canters
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-03-25T16:39:15+01:00
+date: '2019-01-01'
+lastmod: 2021-07-15T16:41:54+02:00
 featured: false
 draft: false
 
@@ -33,11 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-25T15:39:14.031062Z'
+publishDate: '2021-07-15T14:41:43.873041Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Remote Sensing Letters*'
-url_pdf: https://doi.org/10.1080/2150704X.2019.1670518
-doi: 10.1080/2150704X.2019.1670518
+publication: '*International Journal of Applied Earth Observation and Geoinformation*'
+doi: 10.1016/j.jag.2019.02.003
 ---

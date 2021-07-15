@@ -1,23 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Imaging Spectroscopy of Urban Environments
+title: Support vector regression and synthetically mixed training data for quantifying
+  urban land cover
 subtitle: ''
 summary: ''
 authors:
-- S. van der Linden
 - A. Okujeni
-- F. Canters
-- J. Degerickx
-- U. Heiden
-- P. Hostert
-- F. Priem
+- S. van der Linden
+- L. Tits
 - B. Somers
-- F. Thiel
+- P. Hostert
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-03-25T16:39:44+01:00
+date: '2013-01-01'
+lastmod: 2021-07-15T16:41:43+02:00
 featured: false
 draft: false
 
@@ -35,10 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-25T15:39:43.027588Z'
+publishDate: '2021-07-15T14:41:31.540622Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Surveys in Geophysics*'
-doi: https://doi.org/10.1007/s10712-018-9486-y
+publication: '*Remote Sensing of Environment*'
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425713002009
+doi: http://dx.doi.org/10.1016/j.rse.2013.06.007
 ---
