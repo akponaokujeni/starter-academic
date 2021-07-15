@@ -33,11 +33,9 @@ links:
 **Background**<br />
 Detailed descriptions of the Earth's terrestrial vegetation characteristics are essential to capture ecosystem structure, functioning or change. With current and upcoming spaceborne imaging spectrometer missions, novel opportunities for regional-scale hyperspectral analyses of vegetation cover will arise. 
 
-Evaluating hyperspectal data capabilities and adapting processing techniques is needed to optimally exploit these missions for vegetation assessments in terrestrial ecosystems.
-
 <br />
 **Research**<br />
-This part of my research utilizes spaceborne imaging spectroscopy for mapping vegetation characteristics in natural and semi-natural ecosystems. A specific focus is on the hyperspectral satellite mission EnMAP 👉[**EnMAP**](https://www.enmap.org/) and quantitative machine learning-based regression approaches. Analyses focus on vegetation parameters pertaining the research field on Essential Biodiversity Variables (EBV) and Essential Climate Variables (EBV), such as vegetation growth forms, plant species, above ground-biomass, disturbance or phenology. My studies exlpore hyperspectal data capabilities and adavance processing techniques to optimally exploit these missions for vegetation assessments in terrestrial ecosystems.
+This part of my research utilizes spaceborne imaging spectroscopy for mapping vegetation characteristics in natural and semi-natural ecosystems. A specific focus is on the hyperspectral satellite mission 👉[EnMAP](https://www.enmap.org/) and quantitative machine learning-based regression approaches. Analyses consider vegetation parameters pertaining the research field on Essential Biodiversity Variables (EBV) and Essential Climate Variables (EBV), such as vegetation growth forms, plant species, above ground-biomass, disturbance or phenology. Investigations further explore hyperspectal data capabilities and adapt processing techniques to optimally exploit these missions for vegetation assessments in terrestrial ecosystems.
 
 
 <br />
