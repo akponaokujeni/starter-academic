@@ -77,4 +77,4 @@ highlight_name: false
 
 I am a geographer by education with more than 10 years of expertise in remote sensing. My research is motivated by the variety of exciting possibilities Earth observation offers to map and monitor our planet's land surface. I am utilizing imaging spectroscopy (hyperspectral) data, multispectral time-series and machine learning to quantify land cover and vegetation patterns as well as land surface change processes. My studies extend across a wide range of terrestrial ecosystems and focus on innovative methodological developments and environmental research questions related ecosystem structure, ecosystem function and global change.
 
-{{< icon name="download" pack="fas" >}} See my full [CV](https://www.dropbox.com/s/5fkqp0w98lca1v1/okujeni_cv_20210423_public_website.pdf?dl=0) for further information.
+{{< icon name="download" pack="fas" >}} See my full [CV](https://www.dropbox.com/s/gan76xhlxahhc4o/okujeni_cv_public_july2021.pdf?dl=0) for further information.
