@@ -31,7 +31,7 @@ links:
 ---
 <br />
 **Background**<br />
-Monitoring land cover change plays a fundamental role in analyzing the impacts of various drivers of global change on our planet's terrestrial ecosystems. Freely accessible Earth observation image archives provide long-term data records for quantifying historical and near real-time land over change processes globally. 
+Monitoring land cover change plays a fundamental role in analyzing the impacts of various drivers of global change on our planet's terrestrial ecosystems. Freely accessible Earth observation image archives provide long-term data records for quantifying historical and near real time land over change processes globally. 
 
 <br />
 **Research**<br />

@@ -31,7 +31,7 @@ links:
 ---
 <br />
 **Background**<br />
-Most terrestrial ecosystems are characterized by mixtures of different land cover types, by spatial transitions between land cover types and by abrupt and gradual land cover change processes. Mapping fractions of multiple land cover classes through spectral unmixing provides a quantitative means to describe such ecosystem characteristics across space and time.
+Most terrestrial ecosystems are characterized by assemblages of different land cover types, by spatial transitions between land cover types and by abrupt and gradual land cover change processes. Mapping fractions of multiple land cover classes through spectral unmixing provides a quantitative means to describe such ecosystem characteristics across space and time.
 
 <br />
 **Research**<br />
