@@ -1,24 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Use of image endmember libraries for multi-sensor, multi-scale and multi-site
-  mapping of urban areas. '
+title: 6.07 - Remote Sensing of Urban Environments A2 - Liang, Shunlin
 subtitle: ''
 summary: ''
 authors:
-- F. Canters
-- C. Cooper
-- J. Degerickx
-- U. Heiden
-- M. Jilge
+- C. Small
 - A. Okujeni
-- F. Priem
-- B. Somers
 - S. van der Linden
+- B. Waske
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-07-15T16:39:35+02:00
+date: '2018-01-01'
+lastmod: 2021-12-12T18:41:50+01:00
 featured: false
 draft: false
 
@@ -36,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-15T14:39:25.769512Z'
+publishDate: '2021-12-12T17:41:49.643809Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Urban remote sensing*'
-url_pdf: ''
-doi: ''
+publication: '*Comprehensive Remote Sensing*'
+url_pdf: https://www.sciencedirect.com/science/article/pii/B978012409548910380X
+doi: https://doi.org/10.1016/B978-0-12-409548-9.10380-X
 ---

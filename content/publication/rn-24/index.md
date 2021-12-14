@@ -1,57 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'CEFLES2: the remote sensing component to quantify photosynthetic efficiency
-  from the leaf to the region by measuring sun-induced fluorescence in the oxygen
-  absorption bands'
+title: Characterizing 32 years of shrub cover dynamics in southern Portugal using
+  annual Landsat composites and machine learning regression modeling
 subtitle: ''
 summary: ''
 authors:
-- U. Rascher
-- G. Agati
-- L. Alonso
-- G. Cecchi
-- S. Champagne
-- R. Colombo
-- A. Damm
-- F. Daumard
-- E. de Miguel
-- G. Fernandez
-- B. Franch
-- J. Franke
-- C. Gerbig
-- B. Gioli
-- J. A. Gómez
-- Y. Goulas
-- L. Guanter
-- Ó Gutiérrez-de-la-Cámara
-- K. Hamdi
-- P. Hostert
-- M. Jiménez
-- M. Kosvancova
-- D. Lognoli
-- M. Meroni
-- F. Miglietta
-- A. Moersch
-- J. Moreno
-- I. Moya
-- B. Neininger
-- A. Okujeni
-- A. Ounis
-- L. Palombi
-- V. Raimondi
-- A. Schickling
-- J. A. Sobrino
-- M. Stellmes
-- G. Toci
-- P. Toscano
-- T. Udelhoven
+- S. Suess
 - S. van der Linden
-- A. Zaldei
+- A. Okujeni
+- P. Griffiths
+- P. J. Leitão
+- M. Schwieder
+- P. Hostert
 tags: []
 categories: []
-date: '2009-01-01'
-lastmod: 2021-07-15T16:42:04+02:00
+date: '2018-01-01'
+lastmod: 2021-12-12T18:41:53+01:00
 featured: false
 draft: false
 
@@ -69,11 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-15T14:41:55.294798Z'
+publishDate: '2021-12-12T17:41:52.419676Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Biogeosciences*'
-url_pdf: http://www.biogeosciences.net/6/1181/2009/
-doi: 10.5194/bg-6-1181-2009
+publication: '*Remote Sensing of Environment*'
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425718304528
+doi: https://doi.org/10.1016/j.rse.2018.10.004
 ---

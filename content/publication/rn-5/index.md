@@ -1,21 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Mapping urban-rural gradients of settlements and vegetation at national scale
-  using Sentinel-2 spectral-temporal metrics and regression-based unmixing with synthetic
-  training data
+title: A generalized regression-based unmixing model for mapping forest cover fractions
+  throughout three decades of Landsat data
 subtitle: ''
 summary: ''
 authors:
-- F. Schug
-- D. Frantz
+- C. Senf
+- J. Laštovička
 - A. Okujeni
+- M. Heurich
 - S. van der Linden
-- P. Hostert
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-07-15T16:42:38+02:00
+lastmod: 2021-12-12T18:41:49+01:00
 featured: false
 draft: false
 
@@ -33,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-15T14:42:27.568033Z'
+publishDate: '2021-12-12T17:41:48.259040Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Remote Sensing of Environment*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425720301802
-doi: https://doi.org/10.1016/j.rse.2020.111810
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425720300602
+doi: https://doi.org/10.1016/j.rse.2020.111691
 ---

@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Brightness gradient-corrected hyperspectral image mosaics for fractional vegetation
-  cover mapping in northern California
+title: Mapping urban-rural gradients of settlements and vegetation at national scale
+  using Sentinel-2 spectral-temporal metrics and regression-based unmixing with synthetic
+  training data
 subtitle: ''
 summary: ''
 authors:
-- C. Jänicke
+- F. Schug
+- D. Frantz
 - A. Okujeni
-- S. Cooper
-- M. Clark
-- P. Hostert
 - S. van der Linden
+- P. Hostert
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-07-15T16:40:22+02:00
+lastmod: 2021-12-12T18:41:46+01:00
 featured: false
 draft: false
 
@@ -33,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-15T14:40:11.555617Z'
+publishDate: '2021-12-12T17:41:40.807609Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Remote Sensing Letters*'
-url_pdf: https://doi.org/10.1080/2150704X.2019.1670518
-doi: 10.1080/2150704X.2019.1670518
+publication: '*Remote Sensing of Environment*'
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425720301802
+doi: https://doi.org/10.1016/j.rse.2020.111810
 ---

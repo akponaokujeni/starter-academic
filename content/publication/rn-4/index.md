@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A generalized regression-based unmixing model for mapping forest cover fractions
-  throughout three decades of Landsat data
+title: Combining simulated hyperspectral EnMAP and Landsat time series for forest
+  aboveground biomass mapping
 subtitle: ''
 summary: ''
 authors:
-- C. Senf
-- J. Laštovička
+- S. Cooper
 - A. Okujeni
-- M. Heurich
+- D. Pflugmacher
 - S. van der Linden
+- P. Hostert
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-07-15T16:42:58+02:00
+date: '2021-01-01'
+lastmod: 2021-12-12T18:40:42+01:00
 featured: false
 draft: false
 
@@ -32,11 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-15T14:42:49.007361Z'
+publishDate: '2021-12-12T17:40:40.808502Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Remote Sensing of Environment*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425720300602
-doi: https://doi.org/10.1016/j.rse.2020.111691
+publication: '*International Journal of Applied Earth Observation and Geoinformation*'
+doi: 10.1016/j.jag.2021.102307
 ---

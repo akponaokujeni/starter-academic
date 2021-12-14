@@ -1,22 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Characterizing 32 years of shrub cover dynamics in southern Portugal using
-  annual Landsat composites and machine learning regression modeling
+title: 'Disentangling fractional vegetation cover: Regression-based unmixing of simulated
+  spaceborne imaging spectroscopy data'
 subtitle: ''
 summary: ''
 authors:
-- S. Suess
-- S. van der Linden
+- S. Cooper
 - A. Okujeni
-- P. Griffiths
-- P. J. Leitão
-- M. Schwieder
+- C. Jänicke
+- M. Clark
+- S. van der Linden
 - P. Hostert
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-07-15T16:43:29+02:00
+date: '2020-01-01'
+lastmod: 2021-12-12T18:40:40+01:00
 featured: false
 draft: false
 
@@ -34,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-15T14:43:18.860550Z'
+publishDate: '2021-12-12T17:40:39.586300Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Remote Sensing of Environment*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425718304528
-doi: https://doi.org/10.1016/j.rse.2018.10.004
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425720302261
+doi: https://doi.org/10.1016/j.rse.2020.111856
 ---
