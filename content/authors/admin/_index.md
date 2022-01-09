@@ -18,7 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Mapping & monitoring vegetation patterns
+- Mapping & monitoring vegetation properties
 - Remote sensing of the urbanized world
 - Imaging spectroscopy & multispectral time series
 - Image processing with machine learning
@@ -75,6 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a geographer with strong background in remote sensing and geoinformation science. My research is motivated by the variety of exciting possibilities Earth observation offers to map and monitor our planet's land surface. I am utilizing imaging spectroscopy (hyperspectral) data, multispectral time series and machine learning to quantify land cover and vegetation patterns as well as land surface change processes. My studies extend across a wide range of terrestrial ecosystems and focus on innovative methodological developments and environmental research questions related ecosystem structure, ecosystem function and global change.
+I am a geographer with a strong background in remote sensing and geoinformation science. My research is motivated by the variety of exciting possibilities Earth observation offers to map and monitor our planet's land surface. I am utilizing imaging spectroscopy (hyperspectral) data, multispectral time series and machine learning to quantify land cover and vegetation properties as well as land surface change processes. My studies extend across a wide range of terrestrial ecosystems and focus on innovative methodological developments and environmental research questions related ecosystem structure, ecosystem function and global change.
 
-{{< icon name="download" pack="fas" >}} See my full [CV](https://www.dropbox.com/s/gan76xhlxahhc4o/okujeni_cv_public_july2021.pdf?dl=0) for further information.
+{{< icon name="download" pack="fas" >}} See my full 👉[CV](https://www.dropbox.com/s/gan76xhlxahhc4o/okujeni_cv_public_july2021.pdf?dl=0) for further information.

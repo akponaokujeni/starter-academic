@@ -1,5 +1,5 @@
 ---
-title: Mapping vegetation patterns with imaging spectroscopy
+title: Mapping vegetation properties with imaging spectroscopy
 summary: " "
 tags:
 date: "2021-07-15"
@@ -35,7 +35,7 @@ Thematically and spatially detailed descriptions of the Earth's terrestrial vege
 
 <br />
 **Research**<br />
-This part of my research utilizes imaging spectroscopy data for mapping vegetation properties in natural and semi-natural ecosystems. A specific focus is on the hyperspectral satellite mission 👉[EnMAP](https://www.enmap.org/) and quantitative machine learning approaches. Analyses consider vegetation parameters pertaining the research field on Essential Biodiversity Variables (EBV) and Essential Climate Variables (EBV), such as vegetation growth forms, plant species, above ground-biomass, disturbance or phenology. Investigations further explore hyperspectal data capabilities and adapt processing techniques to optimally exploit these missions for vegetation analyses in terrestrial ecosystems.
+This part of my research utilizes imaging spectroscopy data for mapping vegetation properties in natural and semi-natural ecosystems. A specific focus is on the hyperspectral satellite mission 👉[EnMAP](https://www.enmap.org/) and quantitative machine learning approaches. Analyses consider vegetation parameters pertaining the research field on Essential Biodiversity Variables (EBV) and Essential Climate Variables (EBV), such as vegetation growth forms, plant species, aboveground biomass, disturbance or phenology. Investigations further explore hyperspectal data capabilities and synergies between hyperspectral and dense temporal multispectral data to optimally exploit these novel missions for vegetation analyses in terrestrial ecosystems.
 
 
 <br />
