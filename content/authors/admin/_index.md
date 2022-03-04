@@ -75,6 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-My research is motivated by a variety of exciting possibilities Earth observation offers to study our planet’s ecosystems. I am primarily using multiple passive (hyperspectral, multispectral) but also active (e.g. radar) remote sensing systems to quantify biodiversity- and climate-relevant land surface properties as well as land surface change processes. Developing and exploring innovative machine learning methods is central to my research interests. My studies extend across a wide range of application domains (e.g. natural ecosystems, agricultural grasslands or urban areas) and contribute to the development of novel remote sensing toolkits for analyzing ecosystems under global change.
+My research is motivated by a variety of exciting possibilities Earth observation offers to study our planet’s ecosystems. I am primarily using multiple passive but also active remote sensing systems to quantify biodiversity- and climate-relevant land surface properties as well as land surface change processes. Developing and exploring innovative machine learning methods is central to my research interests. My studies extend across a wide range of application domains and contribute to the development of novel remote sensing toolkits for analyzing ecosystems under global change.
 
 {{< icon name="download" pack="fas" >}} See my full 👉[CV](hhttps://www.dropbox.com/s/ah3taoxenq570mh/okujeni_cv_public_february2022.pdf?dl=0) for further information.

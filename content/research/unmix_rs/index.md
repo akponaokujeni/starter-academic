@@ -1,5 +1,5 @@
 ---
-title: Regression-based unmixing using synthetic training data
+title: Exploring and developing machine learning methods
 summary: " "
 tags:
 date: "2021-07-12"
@@ -30,14 +30,10 @@ links:
 #slides: example
 ---
 <br />
-**Background**<br />
-Most terrestrial ecosystems are characterized by assemblages of different land cover types, by spatial transitions between land cover types and by abrupt and gradual land cover change processes. Mapping fractions of multiple land cover classes through spectral unmixing provides a quantitative means to describe such ecosystem characteristics across space and time.
-
-<br />
 **Research**<br />
-A specific methodological focus of my research is on regression-based unmixing with synthetic training data. Based on a spectral library and random synthetic mixing, continuous artificial training samples are generated and used for land cover fraction mapping through regression modeling. This approach was originally developed in the context of urban mapping and has been brought forward with regard to vegetation mapping in natural and semi-natural ecosystems as well as time series applications.
+This part of my research focusses on exploring and developing innovative remote sensing approaches for applied research. A specific focus is on the integration of sophisticated model training strategies and powerful machine learning methods into big data workflows. Enhancing the transferability and generalization capabilities of such workflows across space, time or sensors constitutes an important step toward their operational implementation. 
 
-Regression-based unmixing with synthetic training data has become a core method in several research projects and publications. The approach has been implemented as a user-friendly application in the 👉[EnMAP-Box](https://enmap-box.readthedocs.io/en/latest/) and is documented in detail for 👉[E-learning](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/urban_unmixing/tutorial.html). The method is also available in the python package 👉[HUB-Workflow](http://hub-workflow.readthedocs.io) and integrated into the 👉[FORCE](https://force-eo.readthedocs.io/en/latest/index.html) processing engine. 
+The development of a machine learning unmixing method based on synthetic training data from spectral databases represents one of my key achievements. The approach has become a core method in several research projects and publications. The approach is implemented in the 👉[EnMAP-Box](https://enmap-box.readthedocs.io/en/latest/) and documented for 👉[E-Learning](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/urban_unmixing/tutorial.html) purposes. The functionality is also available in the python package 👉[HUB-Workflow](http://hub-workflow.readthedocs.io) and integrated into the 👉[FORCE](https://force-eo.readthedocs.io/en/latest/index.html) processing engine. 
 
 
 <br />

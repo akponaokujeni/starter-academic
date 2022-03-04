@@ -1,5 +1,5 @@
 ---
-title: Monitoring ecosystem change and ecosystem disturbances
+title: Monitoring ecosystem changes and disturbances
 summary: " "
 tags:
 date: "2021-07-14"
@@ -30,12 +30,8 @@ links:
 #slides: example
 ---
 <br />
-**Background**<br />
-Monitoring land cover change plays a fundamental role in analyzing the impacts of various drivers of global change on our planet's terrestrial ecosystems. Freely accessible Earth observation image archives provide long-term data records for quantifying historical and near real time land over change processes globally. 
-
-<br />
 **Research**<br />
-This part of my research utilizes the Landsat and Sentinel-2 archives and regression-based unmixing to quantify ecosystem change processes and ecosystem disturbances by means of land cover fraction time series. The use of such thematically interpretable time series facilitates the quantification of various processes related to the conversion between land cover types and the gradual change within single land cover types. My studies particularly focus on woody-vegetation encroachment, land degradation, ecosystem disturbances and recovery, drought impacts on vegetation as well as urban growth.
+This part of my research utilizes multisensor time series from the Sentinel-2 and Landsat missions as well as airborne/spaceborne hyperspectral data to analyze impacts of global change on terrestrial ecosystems. A specific focus is on the quantification of processes within natural environments (e.g. plant encroachment, wildfire risks and impacts, ecosystem disturbance and recovery) and agricultural grasslands (e.g. drought impacts).
 
 <br />
 **Selected publications**<br />
