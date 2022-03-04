@@ -33,6 +33,9 @@ links:
 **Research**<br />
 This part of my research utilizes multisensor time series from the Sentinel-2 and Landsat missions as well as airborne/spaceborne hyperspectral data to analyze impacts of global change on terrestrial ecosystems. A specific focus is on the quantification of processes within natural environments (e.g. plant encroachment, wildfire risks and impacts, ecosystem disturbance and recovery) and agricultural grasslands (e.g. drought impacts).
 
+Visit the webmap visualizations of the  👉[grassland response to the drought in 2018](https://ows.geo.hu-berlin.de/webviewer/grassland_drought/index.html).
+
+
 <br />
 **Selected publications**<br />
 

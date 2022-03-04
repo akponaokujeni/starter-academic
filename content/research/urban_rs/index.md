@@ -34,6 +34,8 @@ This part of my research exploits multiple remote sensing systems for urban rese
 
 Visit the webmap visualizations of the national-scale 👉[impervious and vegetation cover](https://ows.geo.hu-berlin.de/webviewer/land-cover-fractions/index.html) and 👉[building height](https://ows.geo.hu-berlin.de/webviewer/building-height/index.html) maps. 
 
+Visit the interactive story map on 👉[urban expansion and densification in Ouagadougou, Burkina Faso](https://amor.cms.hu-berlin.de/~schugfrx/ouagadougou/ouaga.html).
+
 
 <br />
 **Selected publications**<br />
