@@ -18,8 +18,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Mapping & monitoring vegetation properties
-- Remote sensing of the urbanized world
+- Vegetation remote sensing
+- Urban remote sensing
 - Imaging spectroscopy & multispectral time series
 - Image processing with machine learning
 
