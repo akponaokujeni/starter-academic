@@ -1,6 +1,6 @@
 ---
 title: Software - FORCE
-summary: An all-in-one processing engine for medium-resolution Earth Observation image archives.
+summary: Processing engine for medium-resolution EO image archives, enabeling Analysis Ready Data generation and large area/time series analyses.
 tags:
 - Ongoing
 date: "2020-11-27T00:00:00Z"

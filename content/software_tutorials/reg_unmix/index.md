@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Regression-based unmixing of urban land cover
+title: Tutorial - Urban mapping
 summary: Learn how to map urban class fractions using the regression-based unmixing workflow of the EnMAP-Box.
 tags:
 - Ongoing

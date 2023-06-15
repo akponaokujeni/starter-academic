@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Regression-based modeling of forest biomass
+title: Tutorial - Forest biomass
 summary: Learn how to estimate forest aboveground biomass using the regression workflow of the EnMAP-Box.
 tags:
 - Ongoing
