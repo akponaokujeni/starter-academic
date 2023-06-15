@@ -33,7 +33,7 @@ links:
 <br />
 
 **Research**<br />
- My research utilizes multisensor time series from the Sentinel-2 and Landsat missions to monitor ecosystem change and vegetation dynamics through space and time. I am addressing various environmental challenges related to global change, including woody plant encroachment, wildfire impacts, and post-fire vegetation recovery in Mediterranean landscapes. Furthermore, I am studying how changes in climate patterns and climate extremes such as droughts, affect the vitality of Central European grassland systems.
+ My research utilizes multisensor time series from the Sentinel-2 and Landsat missions to monitor ecosystem change and vegetation dynamics through space and time. I am addressing various environmental challenges related to global change, including woody plant encroachment, wildfire impacts, and post-fire vegetation recovery in Mediterranean landscapes. Furthermore, I am studying how changes in climate patterns and climate extremes such as droughts, affect the vitality of grassland systems in Central Europe.
 
 <br />
 
