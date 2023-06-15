@@ -1,5 +1,5 @@
 ---
-title: Simulated EnMAP Lake Tahoe
+title: Simulated EnMAP (LT)
 summary: This dataset comprises spring, summer and fall 2013 simulated hyperspectral EnMAP mosaics for the Lake Tahoe region, USA.
 tags:
 - Ongoing

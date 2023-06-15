@@ -1,5 +1,5 @@
 ---
-title: Simulated EnMAP Santa Barbara
+title: Simulated EnMAP (SB)
 summary: This dataset comprises spring, summer and fall 2013 simulated hyperspectral EnMAP mosaics for the Santa Barbara region, USA.
 tags:
 - Ongoing

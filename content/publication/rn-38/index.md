@@ -1,19 +1,57 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Ensemble Learning From Synthetically Mixed Training Data for Quantifying Urban
-  Land Cover With Support Vector Regression
+title: 'CEFLES2: the remote sensing component to quantify photosynthetic efficiency
+  from the leaf to the region by measuring sun-induced fluorescence in the oxygen
+  absorption bands'
 subtitle: ''
 summary: ''
 authors:
-- A. Okujeni
-- S. van der Linden
-- S. Suess
+- U. Rascher
+- G. Agati
+- L. Alonso
+- G. Cecchi
+- S. Champagne
+- R. Colombo
+- A. Damm
+- F. Daumard
+- E. de Miguel
+- G. Fernandez
+- B. Franch
+- J. Franke
+- C. Gerbig
+- B. Gioli
+- J. A. Gómez
+- Y. Goulas
+- L. Guanter
+- Ó Gutiérrez-de-la-Cámara
+- K. Hamdi
 - P. Hostert
+- M. Jiménez
+- M. Kosvancova
+- D. Lognoli
+- M. Meroni
+- F. Miglietta
+- A. Moersch
+- J. Moreno
+- I. Moya
+- B. Neininger
+- A. Okujeni
+- A. Ounis
+- L. Palombi
+- V. Raimondi
+- A. Schickling
+- J. A. Sobrino
+- M. Stellmes
+- G. Toci
+- P. Toscano
+- T. Udelhoven
+- S. van der Linden
+- A. Zaldei
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2021-12-12T18:41:29+01:00
+date: '2009-01-01'
+lastmod: 2023-06-14T13:35:57+02:00
 featured: false
 draft: false
 
@@ -31,11 +69,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-12T17:41:28.275549Z'
+publishDate: '2023-06-14T11:35:56.534498Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote
-  Sensing*'
-doi: 10.1109/JSTARS.2016.2634859
+publication: '*Biogeosciences*'
+doi: 10.5194/bg-6-1181-2009
+links:
+- name: URL
+  url: http://www.biogeosciences.net/6/1181/2009/
 ---

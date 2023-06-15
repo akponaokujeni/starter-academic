@@ -1,6 +1,6 @@
 ---
-title: Berlin-Urban-Gradient Dataset
-summary: Berlin-Urban-Gradient is a ready-to-use imaging spectrometry dataset for multi-scale unmixing and classification analyses in urban environments.
+title: Berlin-Urban-Gradient
+summary: A ready-to-use imaging spectrometry dataset for multi-scale unmixing and classification analyses in urban environments.
 tags:
 - Completed
 date: "2020-12-27T00:00:00Z"

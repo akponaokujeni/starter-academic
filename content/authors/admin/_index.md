@@ -6,22 +6,23 @@ title: Akpona Okujeni
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher / Senior Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Humboldt-Universität zu Berlin
-  url: https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/akpona_okujeni
+- name: Earth Observation Lab, Humboldt-Universität zu Berlin
+  url: https://www.geographie.hu-berlin.de/en/professorships/eol
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # Interests to show in About widget
 interests:
-- Vegetation remote sensing
+- Remote sensing of vegetation
 - Urban remote sensing
-- Imaging spectroscopy & multispectral time series
-- Image processing with machine learning
+- Imaging spectroscopy 
+- Multispectral time series
+- Image processing workflows
 
 # Education to show in About widget
 education:
@@ -29,7 +30,7 @@ education:
   - course: PhD in Remote Sensing
     institution: Humboldt-Universität zu Berlin, Germany
     year: 2014
-  - course: Diplom (MSc equivalent) in Geography 
+  - course: Diplom (MSc) in Geography 
     institution: Humboldt-Universität zu Berlin, Germany
     year: 2009
     
@@ -75,6 +76,4 @@ email: ""
 highlight_name: false
 ---
 
-My research is motivated by a variety of exciting possibilities Earth observation offers to study our planet’s ecosystems. I am primarily using multiple passive but also active remote sensing systems to quantify biodiversity- and climate-relevant land surface properties as well as land surface change processes. Developing and exploring innovative machine learning methods is central to my research interests. My studies extend across a wide range of application domains and contribute to the development of novel remote sensing toolkits for analyzing ecosystems under global change.
-
-{{< icon name="download" pack="fas" >}} See my full 👉[CV](https://www.dropbox.com/s/ah3taoxenq570mh/okujeni_cv_public_february2022.pdf?dl=0) for further information.
+My research is driven by the immense potential Earth observation offers to explore and understand the ecosystems of our planet. I mainly utilize imaging spectroscopy data and multispectral time series to quantify land and vegetation cover, retrieve vegetation parameters, and monitor ecosystem change and vegetation dynamics through space and time. My studies extend across diverse terrestrial ecosystems and address environmental challenges related to global change, such as disturbance and recovery processes, or drought and wildfire impacts. Implementing innovative and effective image processing workflows for solving real-world application challenges forms the foundation of my studies.

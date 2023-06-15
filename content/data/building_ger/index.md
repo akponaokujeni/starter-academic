@@ -1,5 +1,5 @@
 ---
-title: Building height map Germany
+title: Building height map (GER)
 summary: This dataset features a map of building height predictions for entire Germany based on Sentinel-1A/B and Sentinel-2A/B time series. 
 tags:
 - Ongoing

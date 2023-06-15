@@ -1,6 +1,6 @@
 ---
-title: Land cover fraction map Austria  
-summary: This dataset features a map of built-up and infrastructure, woody and non-woody vegetation fraction predictions for Austria based on Sentinel-2A/B time series. 
+title: Land cover map (AUT)  
+summary: This dataset features a map of built-up and infrastructure, woody and non-woody vegetation fraction predictions for Austria. 
 tags:
 - Completed
 date: "2020-08-27T00:00:00Z"

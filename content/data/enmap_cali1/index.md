@@ -1,5 +1,5 @@
 ---
-title: Simulated EnMAP SF Bay Area
+title: Simulated EnMAP (BA)
 summary: This dataset comprises spring, summer and fall 2013 simulated hyperspectral EnMAP mosaics for the San Francisco Bay Area, USA.
 tags:
 - Ongoing

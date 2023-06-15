@@ -1,6 +1,6 @@
 ---
-title: Land cover fraction map Germany  
-summary: This dataset features a map of built-up and infrastructure, woody and non-woody vegetation fraction predictions for Germany based on Sentinel-2A/B time series. 
+title: Land cover map (GER) 
+summary: This dataset features a map of built-up and infrastructure, woody and non-woody vegetation fraction predictions for Germany. 
 tags:
 - Completed
 date: "2020-09-27T00:00:00Z"

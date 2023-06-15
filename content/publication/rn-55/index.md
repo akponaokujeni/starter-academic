@@ -1,21 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Using Class Probabilities to Map Gradual Transitions in Shrub Vegetation from
-  Simulated EnMAP Data
+title: The EnMAP-Box—A Toolbox and Application Programming Interface for EnMAP Data
+  Processing
 subtitle: ''
 summary: ''
 authors:
-- S. Suess
 - S. van der Linden
+- A. Rabe
+- M. Held
+- B. Jakimow
+- P. Leitão
 - A. Okujeni
-- P. J. Leitão
 - M. Schwieder
+- S. Suess
 - P. Hostert
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-12-12T18:41:55+01:00
+lastmod: 2023-06-14T13:36:10+02:00
 featured: false
 draft: false
 
@@ -33,11 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-12T17:41:53.763752Z'
+publishDate: '2023-06-14T11:36:09.771003Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Remote Sensing*'
-url_pdf: http://www.mdpi.com/2072-4292/7/8/10668
-doi: 10.3390/rs70810668
+doi: 10.3390/rs70911249
+links:
+- name: URL
+  url: http://www.mdpi.com/2072-4292/7/9/11249
 ---

@@ -1,25 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Generalizing machine learning regression models using multi-site spectral libraries
-  for mapping vegetation-impervious-soil fractions across multiple cities
+title: Extending the vegetation–impervious–soil model using simulated EnMAP data and
+  machine learning
 subtitle: ''
 summary: ''
 authors:
 - A. Okujeni
-- F. Canters
-- S. D. Cooper
-- J. Degerickx
-- U. Heiden
-- P. Hostert
-- F. Priem
-- D. A. Roberts
-- B. Somers
 - S. van der Linden
+- P. Hostert
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-12-12T18:41:08+01:00
+date: '2015-01-01'
+lastmod: 2023-06-14T13:35:52+02:00
 featured: false
 draft: false
 
@@ -37,11 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-12T17:41:07.337426Z'
+publishDate: '2023-06-14T11:35:51.332635Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Remote Sensing of Environment*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0034425718303389
-doi: https://doi.org/10.1016/j.rse.2018.07.011
+doi: http://dx.doi.org/10.1016/j.rse.2014.11.009
+links:
+- name: URL
+  url: http://www.sciencedirect.com/science/article/pii/S0034425714004507
 ---

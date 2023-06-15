@@ -1,5 +1,5 @@
 ---
-title: Monitoring ecosystem changes and disturbances
+title: Monitoring ecosystem change and dynamics
 summary: " "
 tags:
 date: "2021-07-14"
@@ -29,21 +29,23 @@ links:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
 <br />
+
 **Research**<br />
-This part of my research utilizes multisensor time series from the Sentinel-2 and Landsat missions as well as airborne/spaceborne hyperspectral data to analyze impacts of global change on terrestrial ecosystems. A specific focus is on the quantification of processes within natural environments (e.g. plant encroachment, wildfire risks and impacts, ecosystem disturbance and recovery) and agricultural grasslands (e.g. drought impacts).
+ My research utilizes multisensor time series from the Sentinel-2 and Landsat missions to monitor ecosystem change and vegetation dynamics through space and time. I am addressing various environmental challenges related to global change, including woody plant encroachment, wildfire impacts, and post-fire vegetation recovery in Mediterranean landscapes. Furthermore, I am studying how changes in climate patterns and climate extremes such as droughts, affect the vitality of Central European grassland systems.
 
-Visit the webmap visualizations of the  👉[grassland response to the drought in 2018](https://ows.geo.hu-berlin.de/webviewer/grassland_drought/index.html).
+<br />
+
+Visit the webmap visualizations illustrating the 👉[impacts of the 2018 drought](https://ows.geo.hu-berlin.de/webviewer/grassland_drought/index.html) on the lowland grasslands of northeastern Germany.
+
 
 
 <br />
+
 **Selected publications**<br />
+* Kowalski, K., Okujeni, A., & Hostert, P. (2023). A generalized framework for drought monitoring across Central European grassland gradients with Sentinel-2 time series. Remote Sensing of Environment 286, 113449. [https://doi.org/10.1016/j.rse.2022.113449](https://doi.org/10.1016/j.rse.2022.113449)
 
-* Kowalski, K., Okujeni, A., Brell, M., & Hostert, P. (2022). Quantifying drought effects in Central European grasslands through regression-based unmixing of intra-annual Sentinel-2 time series. Remote Sensing of Environment, 268, 112781. [https://doi.org/10.1016/j.rse.2021.112781](https://doi.org/10.1016/j.rse.2021.112781)
- 
-
-* Senf, C., Laštovička, J., Okujeni, A., Heurich, M., & van der Linden, S. (2020). A generalized regression-based unmixing model for mapping forest cover fractions throughout three decades of Landsat data. Remote Sensing of Environment, 240, 111691. [https://doi.org/10.1016/j.rse.2020.111691](https://doi.org/10.1016/j.rse.2020.111691)
+* Viana-Soto, A., Okujeni, A., Pflugmacher, D., García, M., Aguado, I., & Hostert, P. (2022). Quantifying post-fire shifts in woody-vegetation cover composition in Mediterranean pine forests using Landsat time series and regression-based unmixing. Remote Sensing of Environment, 281, 113239. [https://doi.org/10.1016/j.rse.2022.113239](https://doi.org/10.1016/j.rse.2022.113239)
 
 * Suess, S., van der Linden, S., Okujeni, A., Griffiths, P., Leitão, P.J., Schwieder, M., & Hostert, P. (2018). Characterizing 32 years of shrub cover dynamics in southern Portugal using annual Landsat composites and machine learning regression modeling. Remote Sensing of Environment, 219, 353-364. [https://doi.org/10.1016/j.rse.2018.10.004](https://doi.org/10.1016/j.rse.2018.10.004)
-
-* Schug, F., Okujeni, A., Hauer, J., Hostert, P., Nielsen, J.Ø., & van der Linden, S. (2018). Mapping patterns of urban development in Ouagadougou, Burkina Faso, using machine learning regression modeling with bi-seasonal Landsat time series. Remote Sensing of Environment, 210, 217-228. [https://doi.org/10.1016/j.rse.2018.03.022](https://doi.org/10.1016/j.rse.2018.03.022) 
