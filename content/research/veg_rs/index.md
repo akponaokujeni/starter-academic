@@ -38,7 +38,6 @@ My research explores the application potential of both current and upcoming hype
 <br />
 
 **Selected publications**<br />
-
 * Okujeni, A., Jänicke, C., Cooper, S., Frantz, D., Hostert, P., Clark, M., Segl, K., & van der Linden, S. (2021). Multi-season unmixing of vegetation class fractions across diverse Californian ecoregions using simulated spaceborne imaging spectroscopy data. Remote Sensing of Environment. [https://doi.org/10.1016/j.rse.2021.112558](https://doi.org/10.1016/j.rse.2021.112558) 
 
 * Cooper, S., Okujeni, A., Pflugmacher, D., van der Linden, S., & Hostert, P. (2021). Combining simulated hyperspectral EnMAP and Landsat time series for forest aboveground biomass mapping. International Journal of Applied Earth Observation and Geoinformation, 98, 102307. [https://doi.org/10.1016/j.jag.2021.102307](https://doi.org/10.1016/j.jag.2021.102307)

@@ -1,18 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 6.07 - Remote Sensing of Urban Environments A2 - Liang, Shunlin
+title: Multidecadal grassland fractional cover time series retrieval for Germany from
+  the Landsat and Sentinel-2 archives
 subtitle: ''
 summary: ''
 authors:
-- C. Small
 - A. Okujeni
-- S. van der Linden
-- B. Waske
+- K. Kowalski
+- K. E. Lewińska
+- S. Schneidereit
+- P. Hostert
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2024-01-25T13:53:17+01:00
+date: '2024-01-01'
+lastmod: 2024-01-25T13:53:08+01:00
 featured: false
 draft: false
 
@@ -30,13 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-25T13:07:37.465027Z'
+publishDate: '2024-01-25T13:07:28.425378Z'
 publication_types:
-- '6'
+- '2'
 abstract: ''
-publication: '*Comprehensive Remote Sensing*'
-doi: https://doi.org/10.1016/B978-0-12-409548-9.10380-X
+publication: '*Remote Sensing of Environment*'
+doi: https://doi.org/10.1016/j.rse.2023.113980
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/B978012409548910380X
+  url: https://www.sciencedirect.com/science/article/pii/S0034425723005321
 ---
