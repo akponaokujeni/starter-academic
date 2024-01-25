@@ -1,5 +1,5 @@
 ---
-title: Monitoring ecosystem change and dynamics
+title: Monitoring ecosystem change and dynamicss
 summary: " "
 tags:
 date: "2021-07-14"
