@@ -40,6 +40,7 @@ The development of a machine learning unmixing method based on synthetic trainin
 <br />
 
 **Selected publications**<br />
+* Okujeni, A., Kowalski, K., Lewińska, K.E., Schneidereit, S., & Hostert, P. (2024). Multidecadal grassland fractional cover time series retrieval for Germany from the Landsat and Sentinel-2 archives. Remote Sensing of Environment, 302, 113980. [https://doi.org/10.1016/j.rse.2023.113980](https://doi.org/10.1016/j.rse.2023.113980)
 
 * Kowalski, K., Okujeni, A., & Hostert, P. (2023). A generalized framework for drought monitoring across Central European grassland gradients with Sentinel-2 time series. Remote Sensing of Environment 286, 113449. [https://doi.org/10.1016/j.rse.2022.113449](https://doi.org/10.1016/j.rse.2022.113449) 
 

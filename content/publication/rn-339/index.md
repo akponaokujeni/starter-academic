@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 6.07 - Remote Sensing of Urban Environments A2 - Liang, Shunlin
+title: Mapping forest fire severity using bi-temporal unmixing of Sentinel-2 data
+  - Towards a quantitative understanding of fire impacts
 subtitle: ''
 summary: ''
 authors:
-- C. Small
+- K. A. Pfoch
+- D. Pflugmacher
 - A. Okujeni
-- S. van der Linden
-- B. Waske
+- P. Hostert
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2024-01-25T13:53:17+01:00
+date: '2023-01-01'
+lastmod: 2024-01-25T13:53:11+01:00
 featured: false
 draft: false
 
@@ -30,13 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-25T13:07:37.465027Z'
+publishDate: '2024-01-25T13:07:31.740857Z'
 publication_types:
-- '6'
+- '2'
 abstract: ''
-publication: '*Comprehensive Remote Sensing*'
-doi: https://doi.org/10.1016/B978-0-12-409548-9.10380-X
+publication: '*Science of Remote Sensing*'
+doi: https://doi.org/10.1016/j.srs.2023.100097
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/B978012409548910380X
+  url: https://www.sciencedirect.com/science/article/pii/S2666017223000226
 ---
